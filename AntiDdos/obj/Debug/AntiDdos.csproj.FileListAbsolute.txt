@@ -1,0 +1,20 @@
+C:\Users\Masyanya\source\repos\AntiDdos\AntiDdos\bin\Debug\AntiDdos.exe.config
+C:\Users\Masyanya\source\repos\AntiDdos\AntiDdos\bin\Debug\AntiDdos.exe
+C:\Users\Masyanya\source\repos\AntiDdos\AntiDdos\bin\Debug\AntiDdos.pdb
+C:\Users\Masyanya\source\repos\AntiDdos\AntiDdos\obj\Debug\AntiDdos.csprojAssemblyReference.cache
+C:\Users\Masyanya\source\repos\AntiDdos\AntiDdos\obj\Debug\AntiDdos.Form1.resources
+C:\Users\Masyanya\source\repos\AntiDdos\AntiDdos\obj\Debug\AntiDdos.Properties.Resources.resources
+C:\Users\Masyanya\source\repos\AntiDdos\AntiDdos\obj\Debug\AntiDdos.csproj.GenerateResource.cache
+C:\Users\Masyanya\source\repos\AntiDdos\AntiDdos\obj\Debug\AntiDdos.csproj.CoreCompileInputs.cache
+C:\Users\Masyanya\source\repos\AntiDdos\AntiDdos\obj\Debug\AntiDdos.exe
+C:\Users\Masyanya\source\repos\AntiDdos\AntiDdos\obj\Debug\AntiDdos.pdb
+D:\Projects 2019\AntiDdos\AntiDdos\bin\Debug\AntiDdos.exe.config
+D:\Projects 2019\AntiDdos\AntiDdos\bin\Debug\AntiDdos.exe
+D:\Projects 2019\AntiDdos\AntiDdos\bin\Debug\AntiDdos.pdb
+D:\Projects 2019\AntiDdos\AntiDdos\obj\Debug\AntiDdos.csprojAssemblyReference.cache
+D:\Projects 2019\AntiDdos\AntiDdos\obj\Debug\AntiDdos.Form1.resources
+D:\Projects 2019\AntiDdos\AntiDdos\obj\Debug\AntiDdos.Properties.Resources.resources
+D:\Projects 2019\AntiDdos\AntiDdos\obj\Debug\AntiDdos.csproj.GenerateResource.cache
+D:\Projects 2019\AntiDdos\AntiDdos\obj\Debug\AntiDdos.csproj.CoreCompileInputs.cache
+D:\Projects 2019\AntiDdos\AntiDdos\obj\Debug\AntiDdos.exe
+D:\Projects 2019\AntiDdos\AntiDdos\obj\Debug\AntiDdos.pdb
